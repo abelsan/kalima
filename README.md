@@ -1,2 +1,2 @@
 # kalima
-Sample used to test pull and test script
+Sample used to test clone and test script
