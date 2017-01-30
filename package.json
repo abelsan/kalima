@@ -4,7 +4,7 @@
   "description": "testing shelljs",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test -R json > test/test.json"
   },
   "author": "abelsan <abel@mit.edu>",
   "license": "ISC",
